@@ -1,0 +1,3 @@
+Exponentiating: 3^3
+Multiplicating: 2*27
+Result: 54

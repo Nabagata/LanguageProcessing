@@ -1,0 +1,775 @@
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+No Space available
+greater : 1
+		file.txt : 21
+Each : 1
+		file.txt : 18
+grammar : 3
+		file.txt : 9
+		file.txt : 9
+		file.txt : 13
+right : 4
+		file.txt : 9
+		file.txt : 16
+		file.txt : 16
+		file.txt : 18
+first : 2
+		file.txt : 7
+		file.txt : 9
+Special : 1
+		file.txt : 16
+value : 1
+		file.txt : 21
+mid : 2
+		file.txt : 6
+		file.txt : 6
+March : 1
+		file.txt : 7
+produce : 1
+		file.txt : 9
+eliminate : 1
+		file.txt : 13
+desk : 1
+		file.txt : 21
+include : 1
+		file.txt : 23
+recognise : 1
+		file.txt : 23
+storing : 1
+		file.txt : 23
+line : 1
+		file.txt : 23
+it : 2
+		file.txt : 9
+		file.txt : 19
+productions : 2
+		file.txt : 13
+		file.txt : 13
+numbers : 1
+		file.txt : 23
+appears : 1
+		file.txt : 23
+tree : 1
+		file.txt : 11
+recursion : 1
+		file.txt : 13
+week : 2
+		file.txt : 6
+		file.txt : 7
+reverse : 1
+		file.txt : 17
+possible : 1
+		file.txt : 9
+LAB : 1
+		file.txt : 2
+follows : 1
+		file.txt : 15
+input : 1
+		file.txt : 13
+February : 1
+		file.txt : 7
+written : 2
+		file.txt : 16
+		file.txt : 17
+CNF : 1
+		file.txt : 9
+generate : 2
+		file.txt : 9
+		file.txt : 23
+II : 1
+		file.txt : 1
+ASCII : 1
+		file.txt : 17
+which : 3
+		file.txt : 18
+		file.txt : 19
+		file.txt : 23
+half : 2
+		file.txt : 18
+		file.txt : 18
+has : 1
+		file.txt : 18
+statements : 1
+		file.txt : 21
+expressions : 1
+		file.txt : 21
+less : 1
+		file.txt : 21
+equal : 2
+		file.txt : 21
+		file.txt : 21
+named : 1
+		file.txt : 21
+where : 1
+		file.txt : 9
+language : 1
+		file.txt : 21
+Assignments : 1
+		file.txt : 6
+production : 3
+		file.txt : 9
+		file.txt : 13
+		file.txt : 13
+non : 3
+		file.txt : 9
+		file.txt : 9
+		file.txt : 13
+resultant : 1
+		file.txt : 13
+of : 11
+		file.txt : 7
+		file.txt : 7
+		file.txt : 9
+		file.txt : 9
+		file.txt : 9
+		file.txt : 11
+		file.txt : 13
+		file.txt : 18
+		file.txt : 18
+		file.txt : 19
+		file.txt : 21
+file : 1
+		file.txt : 15
+algorithm : 1
+		file.txt : 9
+exponentiation : 1
+		file.txt : 11
+membership : 1
+		file.txt : 9
+Implement : 2
+		file.txt : 9
+		file.txt : 21
+CYK : 1
+		file.txt : 9
+CYCLE : 1
+		file.txt : 4
+postfix : 1
+		file.txt : 11
+operators : 3
+		file.txt : 11
+		file.txt : 11
+		file.txt : 21
+rules : 2
+		file.txt : 11
+		file.txt : 23
+digits : 1
+		file.txt : 18
+left : 6
+		file.txt : 9
+		file.txt : 13
+		file.txt : 13
+		file.txt : 13
+		file.txt : 16
+		file.txt : 18
+Semester : 1
+		file.txt : 1
+assignment : 3
+		file.txt : 7
+		file.txt : 21
+		file.txt : 21
+Note : 1
+		file.txt : 11
+given : 3
+		file.txt : 9
+		file.txt : 9
+		file.txt : 23
+rotated : 1
+		file.txt : 16
+B : 1
+		file.txt : 1
+terminals : 2
+		file.txt : 9
+		file.txt : 9
+characters : 2
+		file.txt : 11
+		file.txt : 19
+output : 1
+		file.txt : 13
+Other : 1
+		file.txt : 17
+need : 2
+		file.txt : 17
+		file.txt : 19
+terminal : 2
+		file.txt : 13
+		file.txt : 13
+middle : 1
+		file.txt : 18
+most : 1
+		file.txt : 13
+retained : 1
+		file.txt : 19
+whitespaces : 1
+		file.txt : 19
+precedence : 1
+		file.txt : 11
+usual : 1
+		file.txt : 11
+derivation : 2
+		file.txt : 9
+		file.txt : 9
+same : 1
+		file.txt : 18
+sequence : 1
+		file.txt : 19
+statement : 1
+		file.txt : 21
+than : 2
+		file.txt : 21
+		file.txt : 21
+CFG : 2
+		file.txt : 9
+		file.txt : 13
+Display : 1
+		file.txt : 13
+new : 1
+		file.txt : 18
+expression : 3
+		file.txt : 11
+		file.txt : 11
+		file.txt : 21
+flex : 2
+		file.txt : 11
+		file.txt : 11
+associativity : 1
+		file.txt : 11
+binary : 1
+		file.txt : 11
+If : 1
+		file.txt : 18
+not : 1
+		file.txt : 21
+C : 1
+		file.txt : 21
+logical : 1
+		file.txt : 21
+completed : 3
+		file.txt : 6
+		file.txt : 6
+		file.txt : 7
+rule : 1
+		file.txt : 9
+grammars : 1
+		file.txt : 13
+Write : 5
+		file.txt : 11
+		file.txt : 13
+		file.txt : 15
+		file.txt : 21
+		file.txt : 23
+number : 6
+		file.txt : 9
+		file.txt : 18
+		file.txt : 18
+		file.txt : 18
+		file.txt : 18
+		file.txt : 18
+lex : 1
+		file.txt : 15
+function : 1
+		file.txt : 21
+for : 7
+		file.txt : 7
+		file.txt : 9
+		file.txt : 9
+		file.txt : 11
+		file.txt : 21
+		file.txt : 21
+		file.txt : 23
+symbol : 3
+		file.txt : 9
+		file.txt : 13
+		file.txt : 23
+corresponding : 2
+		file.txt : 9
+		file.txt : 11
+Unary : 1
+		file.txt : 11
+program : 3
+		file.txt : 13
+		file.txt : 15
+		file.txt : 23
+before : 2
+		file.txt : 6
+		file.txt : 7
+immediate : 1
+		file.txt : 13
+k : 1
+		file.txt : 17
+Assignment : 1
+		file.txt : 7
+specifications : 1
+		file.txt : 11
+string : 4
+		file.txt : 9
+		file.txt : 9
+		file.txt : 9
+		file.txt : 13
+readable : 1
+		file.txt : 13
+have : 2
+		file.txt : 16
+		file.txt : 19
+Consider : 1
+		file.txt : 13
+useless : 1
+		file.txt : 13
+III : 1
+		file.txt : 1
+English : 2
+		file.txt : 17
+		file.txt : 23
+replacing : 1
+		file.txt : 17
+portion : 1
+		file.txt : 9
+odd : 1
+		file.txt : 18
+PROCESSORS : 1
+		file.txt : 2
+alphabet : 2
+		file.txt : 9
+		file.txt : 13
+um : 1
+		file.txt : 11
+All : 1
+		file.txt : 19
+except : 1
+		file.txt : 19
+CSE : 1
+		file.txt : 1
+be : 11
+		file.txt : 6
+		file.txt : 6
+		file.txt : 7
+		file.txt : 7
+		file.txt : 16
+		file.txt : 17
+		file.txt : 17
+		file.txt : 18
+		file.txt : 18
+		file.txt : 19
+		file.txt : 19
+replaced : 2
+		file.txt : 18
+		file.txt : 19
+deciding : 1
+		file.txt : 9
+Use : 2
+		file.txt : 11
+		file.txt : 23
+should : 3
+		file.txt : 17
+		file.txt : 18
+		file.txt : 18
+identifiers : 1
+		file.txt : 21
+let : 1
+		file.txt : 21
+initializing : 1
+		file.txt : 21
+cyclic : 2
+		file.txt : 16
+		file.txt : 17
+sequences : 2
+		file.txt : 9
+		file.txt : 9
+some : 2
+		file.txt : 11
+		file.txt : 15
+prior : 1
+		file.txt : 6
+each : 4
+		file.txt : 9
+		file.txt : 13
+		file.txt : 13
+		file.txt : 17
+symbols : 2
+		file.txt : 11
+		file.txt : 13
+meta : 1
+		file.txt : 11
+can : 2
+		file.txt : 7
+		file.txt : 23
+single : 4
+		file.txt : 9
+		file.txt : 13
+		file.txt : 19
+		file.txt : 23
+as : 9
+		file.txt : 9
+		file.txt : 13
+		file.txt : 13
+		file.txt : 13
+		file.txt : 15
+		file.txt : 15
+		file.txt : 19
+		file.txt : 21
+		file.txt : 23
+side : 3
+		file.txt : 9
+		file.txt : 9
+		file.txt : 13
+Modify : 1
+		file.txt : 9
+done : 1
+		file.txt : 7
+identical : 1
+		file.txt : 9
+From : 1
+		file.txt : 13
+end : 1
+		file.txt : 7
+using : 2
+		file.txt : 15
+		file.txt : 23
+words : 7
+		file.txt : 15
+		file.txt : 16
+		file.txt : 17
+		file.txt : 17
+		file.txt : 23
+		file.txt : 23
+		file.txt : 23
+assessment : 1
+		file.txt : 6
+Assume : 2
+		file.txt : 9
+		file.txt : 11
+infix : 1
+		file.txt : 11
+operator : 1
+		file.txt : 11
+positions : 1
+		file.txt : 16
+generated : 1
+		file.txt : 18
+text : 4
+		file.txt : 15
+		file.txt : 15
+		file.txt : 15
+		file.txt : 23
+encrypted : 1
+		file.txt : 17
+represented : 3
+		file.txt : 9
+		file.txt : 13
+		file.txt : 13
+notation : 2
+		file.txt : 11
+		file.txt : 13
+variable : 3
+		file.txt : 13
+		file.txt : 21
+		file.txt : 21
+encrypt : 2
+		file.txt : 15
+		file.txt : 15
+special : 1
+		file.txt : 15
+by : 9
+		file.txt : 6
+		file.txt : 9
+		file.txt : 11
+		file.txt : 16
+		file.txt : 17
+		file.txt : 17
+		file.txt : 18
+		file.txt : 18
+		file.txt : 19
+character : 1
+		file.txt : 17
+NOTE : 1
+		file.txt : 6
+digit : 1
+		file.txt : 18
+ASSIGNMENTS : 1
+		file.txt : 2
+used : 1
+		file.txt : 21
+and : 16
+		file.txt : 9
+		file.txt : 9
+		file.txt : 9
+		file.txt : 11
+		file.txt : 11
+		file.txt : 13
+		file.txt : 13
+		file.txt : 13
+		file.txt : 13
+		file.txt : 15
+		file.txt : 16
+		file.txt : 17
+		file.txt : 18
+		file.txt : 21
+		file.txt : 21
+		file.txt : 23
+display : 2
+		file.txt : 21
+		file.txt : 21
+place : 1
+		file.txt : 18
+two : 1
+		file.txt : 16
+defined : 1
+		file.txt : 21
+or : 1
+		file.txt : 21
+table : 2
+		file.txt : 23
+		file.txt : 23
+Minus : 1
+		file.txt : 11
+like : 1
+		file.txt : 23
+t : 1
+		file.txt : 23
+word : 2
+		file.txt : 23
+		file.txt : 23
+normal : 1
+		file.txt : 23
+their : 1
+		file.txt : 23
+Also : 2
+		file.txt : 9
+		file.txt : 23
+Tech : 1
+		file.txt : 1
+LANGUAGE : 1
+		file.txt : 2
+constructing : 1
+		file.txt : 11
+unit : 1
+		file.txt : 13
+other : 1
+		file.txt : 19
+will : 2
+		file.txt : 6
+		file.txt : 7
+calculator : 1
+		file.txt : 21
+remove : 1
+		file.txt : 13
+space : 1
+		file.txt : 19
+frequency : 1
+		file.txt : 23
+unique : 1
+		file.txt : 23
+predefined : 1
+		file.txt : 15
+remaining : 1
+		file.txt : 9
+examinations : 2
+		file.txt : 6
+		file.txt : 6
+if : 2
+		file.txt : 9
+		file.txt : 21
+Assessment : 1
+		file.txt : 7
+CS : 1
+		file.txt : 2
+semester : 2
+		file.txt : 6
+		file.txt : 6
+convert : 1
+		file.txt : 11
+distinct : 1
+		file.txt : 9
+with : 5
+		file.txt : 13
+		file.txt : 13
+		file.txt : 15
+		file.txt : 21
+		file.txt : 21
+Copy : 1
+		file.txt : 15
+swapping : 1
+		file.txt : 18
+along : 1
+		file.txt : 21

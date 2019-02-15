@@ -1,0 +1,281 @@
+Grammar
+
+    0 $accept: calclist $end
+
+    1 calclist: %empty
+    2         | calclist expr EOL
+
+    3 expr: factor
+    4     | expr ADD factor
+    5     | expr SUB factor
+
+    6 factor: exponent
+    7       | factor MUL exponent
+    8       | factor DIV exponent
+
+    9 exponent: term
+   10         | term EXP exponent
+
+   11 term: NUM
+   12     | UM term
+   13     | ABS term
+
+
+Terminals, with rules where they appear
+
+$end (0) 0
+error (256)
+SUB (258) 5
+ADD (259) 4
+MUL (260) 7
+DIV (261) 8
+EXP (262) 10
+ABS (263) 13
+UM (264) 12
+NUM (265) 11
+EOL (266) 2
+
+
+Nonterminals, with rules where they appear
+
+$accept (12)
+    on left: 0
+calclist (13)
+    on left: 1 2, on right: 0 2
+expr (14)
+    on left: 3 4 5, on right: 2 4 5
+factor (15)
+    on left: 6 7 8, on right: 3 4 5 7 8
+exponent (16)
+    on left: 9 10, on right: 6 7 8 10
+term (17)
+    on left: 11 12 13, on right: 9 10 12 13
+
+
+State 0
+
+    0 $accept: . calclist $end
+
+    $default  reduce using rule 1 (calclist)
+
+    calclist  go to state 1
+
+
+State 1
+
+    0 $accept: calclist . $end
+    2 calclist: calclist . expr EOL
+
+    $end  shift, and go to state 2
+    ABS   shift, and go to state 3
+    UM    shift, and go to state 4
+    NUM   shift, and go to state 5
+
+    expr      go to state 6
+    factor    go to state 7
+    exponent  go to state 8
+    term      go to state 9
+
+
+State 2
+
+    0 $accept: calclist $end .
+
+    $default  accept
+
+
+State 3
+
+   13 term: ABS . term
+
+    ABS  shift, and go to state 3
+    UM   shift, and go to state 4
+    NUM  shift, and go to state 5
+
+    term  go to state 10
+
+
+State 4
+
+   12 term: UM . term
+
+    ABS  shift, and go to state 3
+    UM   shift, and go to state 4
+    NUM  shift, and go to state 5
+
+    term  go to state 11
+
+
+State 5
+
+   11 term: NUM .
+
+    $default  reduce using rule 11 (term)
+
+
+State 6
+
+    2 calclist: calclist expr . EOL
+    4 expr: expr . ADD factor
+    5     | expr . SUB factor
+
+    SUB  shift, and go to state 12
+    ADD  shift, and go to state 13
+    EOL  shift, and go to state 14
+
+
+State 7
+
+    3 expr: factor .
+    7 factor: factor . MUL exponent
+    8       | factor . DIV exponent
+
+    MUL  shift, and go to state 15
+    DIV  shift, and go to state 16
+
+    $default  reduce using rule 3 (expr)
+
+
+State 8
+
+    6 factor: exponent .
+
+    $default  reduce using rule 6 (factor)
+
+
+State 9
+
+    9 exponent: term .
+   10         | term . EXP exponent
+
+    EXP  shift, and go to state 17
+
+    $default  reduce using rule 9 (exponent)
+
+
+State 10
+
+   13 term: ABS term .
+
+    $default  reduce using rule 13 (term)
+
+
+State 11
+
+   12 term: UM term .
+
+    $default  reduce using rule 12 (term)
+
+
+State 12
+
+    5 expr: expr SUB . factor
+
+    ABS  shift, and go to state 3
+    UM   shift, and go to state 4
+    NUM  shift, and go to state 5
+
+    factor    go to state 18
+    exponent  go to state 8
+    term      go to state 9
+
+
+State 13
+
+    4 expr: expr ADD . factor
+
+    ABS  shift, and go to state 3
+    UM   shift, and go to state 4
+    NUM  shift, and go to state 5
+
+    factor    go to state 19
+    exponent  go to state 8
+    term      go to state 9
+
+
+State 14
+
+    2 calclist: calclist expr EOL .
+
+    $default  reduce using rule 2 (calclist)
+
+
+State 15
+
+    7 factor: factor MUL . exponent
+
+    ABS  shift, and go to state 3
+    UM   shift, and go to state 4
+    NUM  shift, and go to state 5
+
+    exponent  go to state 20
+    term      go to state 9
+
+
+State 16
+
+    8 factor: factor DIV . exponent
+
+    ABS  shift, and go to state 3
+    UM   shift, and go to state 4
+    NUM  shift, and go to state 5
+
+    exponent  go to state 21
+    term      go to state 9
+
+
+State 17
+
+   10 exponent: term EXP . exponent
+
+    ABS  shift, and go to state 3
+    UM   shift, and go to state 4
+    NUM  shift, and go to state 5
+
+    exponent  go to state 22
+    term      go to state 9
+
+
+State 18
+
+    5 expr: expr SUB factor .
+    7 factor: factor . MUL exponent
+    8       | factor . DIV exponent
+
+    MUL  shift, and go to state 15
+    DIV  shift, and go to state 16
+
+    $default  reduce using rule 5 (expr)
+
+
+State 19
+
+    4 expr: expr ADD factor .
+    7 factor: factor . MUL exponent
+    8       | factor . DIV exponent
+
+    MUL  shift, and go to state 15
+    DIV  shift, and go to state 16
+
+    $default  reduce using rule 4 (expr)
+
+
+State 20
+
+    7 factor: factor MUL exponent .
+
+    $default  reduce using rule 7 (factor)
+
+
+State 21
+
+    8 factor: factor DIV exponent .
+
+    $default  reduce using rule 8 (factor)
+
+
+State 22
+
+   10 exponent: term EXP exponent .
+
+    $default  reduce using rule 10 (exponent)
