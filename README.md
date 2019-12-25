@@ -1,1 +1,1 @@
-# ComputerNetworks
+# Language Processing Lab
